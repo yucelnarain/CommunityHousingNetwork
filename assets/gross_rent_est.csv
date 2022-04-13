@@ -1,0 +1,499 @@
+NAME,No_of_Rooms,Rent
+Alcona County,1 Room,539
+Alcona County,2 Rooms,600
+Alcona County,3 Rooms,794
+Alcona County,4 Rooms,835
+Alcona County,5 or more Rooms,0
+Alcona County,No Rooms,0
+Alger County,1 Room,515
+Alger County,2 Rooms,814
+Alger County,3 Rooms,642
+Alger County,4 Rooms,0
+Alger County,5 or more Rooms,0
+Alger County,No Rooms,0
+Allegan County,1 Room,613
+Allegan County,2 Rooms,838
+Allegan County,3 Rooms,1001
+Allegan County,4 Rooms,994
+Allegan County,5 or more Rooms,963
+Allegan County,No Rooms,745
+Alpena County,1 Room,407
+Alpena County,2 Rooms,609
+Alpena County,3 Rooms,670
+Alpena County,4 Rooms,913
+Alpena County,5 or more Rooms,0
+Alpena County,No Rooms,281
+Antrim County,1 Room,629
+Antrim County,2 Rooms,784
+Antrim County,3 Rooms,855
+Antrim County,4 Rooms,1115
+Antrim County,5 or more Rooms,0
+Antrim County,No Rooms,509
+Arenac County,1 Room,376
+Arenac County,2 Rooms,576
+Arenac County,3 Rooms,832
+Arenac County,4 Rooms,850
+Arenac County,5 or more Rooms,711
+Arenac County,No Rooms,335
+Baraga County,1 Room,433
+Baraga County,2 Rooms,637
+Baraga County,3 Rooms,646
+Baraga County,4 Rooms,840
+Baraga County,5 or more Rooms,0
+Baraga County,No Rooms,281
+Barry County,1 Room,634
+Barry County,2 Rooms,863
+Barry County,3 Rooms,1036
+Barry County,4 Rooms,1065
+Barry County,5 or more Rooms,742
+Barry County,No Rooms,488
+Bay County,1 Room,518
+Bay County,2 Rooms,755
+Bay County,3 Rooms,881
+Bay County,4 Rooms,880
+Bay County,5 or more Rooms,796
+Bay County,No Rooms,544
+Benzie County,1 Room,375
+Benzie County,2 Rooms,920
+Benzie County,3 Rooms,788
+Benzie County,4 Rooms,1070
+Benzie County,5 or more Rooms,1617
+Benzie County,No Rooms,0
+Berrien County,1 Room,591
+Berrien County,2 Rooms,808
+Berrien County,3 Rooms,941
+Berrien County,4 Rooms,943
+Berrien County,5 or more Rooms,1280
+Berrien County,No Rooms,504
+Branch County,1 Room,563
+Branch County,2 Rooms,718
+Branch County,3 Rooms,872
+Branch County,4 Rooms,868
+Branch County,5 or more Rooms,1119
+Branch County,No Rooms,669
+Calhoun County,1 Room,647
+Calhoun County,2 Rooms,803
+Calhoun County,3 Rooms,898
+Calhoun County,4 Rooms,1064
+Calhoun County,5 or more Rooms,1056
+Calhoun County,No Rooms,702
+Cass County,1 Room,565
+Cass County,2 Rooms,697
+Cass County,3 Rooms,905
+Cass County,4 Rooms,1007
+Cass County,5 or more Rooms,776
+Cass County,No Rooms,537
+Charlevoix County,1 Room,545
+Charlevoix County,2 Rooms,747
+Charlevoix County,3 Rooms,1072
+Charlevoix County,4 Rooms,1098
+Charlevoix County,5 or more Rooms,0
+Charlevoix County,No Rooms,523
+Cheboygan County,1 Room,443
+Cheboygan County,2 Rooms,769
+Cheboygan County,3 Rooms,773
+Cheboygan County,4 Rooms,950
+Cheboygan County,5 or more Rooms,0
+Cheboygan County,No Rooms,289
+Chippewa County,1 Room,573
+Chippewa County,2 Rooms,818
+Chippewa County,3 Rooms,724
+Chippewa County,4 Rooms,757
+Chippewa County,5 or more Rooms,807
+Chippewa County,No Rooms,440
+Clare County,1 Room,483
+Clare County,2 Rooms,669
+Clare County,3 Rooms,796
+Clare County,4 Rooms,972
+Clare County,5 or more Rooms,975
+Clare County,No Rooms,370
+Clinton County,1 Room,750
+Clinton County,2 Rooms,840
+Clinton County,3 Rooms,996
+Clinton County,4 Rooms,852
+Clinton County,5 or more Rooms,825
+Clinton County,No Rooms,573
+Crawford County,1 Room,603
+Crawford County,2 Rooms,739
+Crawford County,3 Rooms,832
+Crawford County,4 Rooms,883
+Crawford County,5 or more Rooms,0
+Crawford County,No Rooms,436
+Delta County,1 Room,381
+Delta County,2 Rooms,607
+Delta County,3 Rooms,731
+Delta County,4 Rooms,1123
+Delta County,5 or more Rooms,1172
+Delta County,No Rooms,420
+Dickinson County,1 Room,553
+Dickinson County,2 Rooms,678
+Dickinson County,3 Rooms,749
+Dickinson County,4 Rooms,725
+Dickinson County,5 or more Rooms,1398
+Dickinson County,No Rooms,654
+Eaton County,1 Room,711
+Eaton County,2 Rooms,895
+Eaton County,3 Rooms,1104
+Eaton County,4 Rooms,971
+Eaton County,5 or more Rooms,1202
+Eaton County,No Rooms,800
+Emmet County,1 Room,634
+Emmet County,2 Rooms,882
+Emmet County,3 Rooms,946
+Emmet County,4 Rooms,1141
+Emmet County,5 or more Rooms,1122
+Emmet County,No Rooms,592
+Genesee County,1 Room,624
+Genesee County,2 Rooms,789
+Genesee County,3 Rooms,917
+Genesee County,4 Rooms,1024
+Genesee County,5 or more Rooms,1118
+Genesee County,No Rooms,546
+Gladwin County,1 Room,446
+Gladwin County,2 Rooms,605
+Gladwin County,3 Rooms,814
+Gladwin County,4 Rooms,825
+Gladwin County,5 or more Rooms,0
+Gladwin County,No Rooms,330
+Gogebic County,1 Room,388
+Gogebic County,2 Rooms,557
+Gogebic County,3 Rooms,710
+Gogebic County,4 Rooms,395
+Gogebic County,5 or more Rooms,0
+Gogebic County,No Rooms,0
+Grand Traverse County,1 Room,853
+Grand Traverse County,2 Rooms,966
+Grand Traverse County,3 Rooms,1064
+Grand Traverse County,4 Rooms,770
+Grand Traverse County,5 or more Rooms,1368
+Grand Traverse County,No Rooms,788
+Gratiot County,1 Room,490
+Gratiot County,2 Rooms,703
+Gratiot County,3 Rooms,782
+Gratiot County,4 Rooms,1164
+Gratiot County,5 or more Rooms,725
+Gratiot County,No Rooms,0
+Hillsdale County,1 Room,523
+Hillsdale County,2 Rooms,721
+Hillsdale County,3 Rooms,859
+Hillsdale County,4 Rooms,941
+Hillsdale County,5 or more Rooms,1244
+Hillsdale County,No Rooms,374
+Houghton County,1 Room,528
+Houghton County,2 Rooms,652
+Houghton County,3 Rooms,930
+Houghton County,4 Rooms,1518
+Houghton County,5 or more Rooms,0
+Houghton County,No Rooms,510
+Huron County,1 Room,501
+Huron County,2 Rooms,625
+Huron County,3 Rooms,738
+Huron County,4 Rooms,803
+Huron County,5 or more Rooms,820
+Huron County,No Rooms,0
+Ingham County,1 Room,735
+Ingham County,2 Rooms,937
+Ingham County,3 Rooms,1129
+Ingham County,4 Rooms,1112
+Ingham County,5 or more Rooms,1212
+Ingham County,No Rooms,734
+Ionia County,1 Room,489
+Ionia County,2 Rooms,813
+Ionia County,3 Rooms,905
+Ionia County,4 Rooms,1116
+Ionia County,5 or more Rooms,610
+Ionia County,No Rooms,579
+Iosco County,1 Room,387
+Iosco County,2 Rooms,663
+Iosco County,3 Rooms,755
+Iosco County,4 Rooms,1313
+Iosco County,5 or more Rooms,850
+Iosco County,No Rooms,0
+Iron County,1 Room,432
+Iron County,2 Rooms,717
+Iron County,3 Rooms,767
+Iron County,4 Rooms,0
+Iron County,5 or more Rooms,0
+Iron County,No Rooms,425
+Isabella County,1 Room,619
+Isabella County,2 Rooms,731
+Isabella County,3 Rooms,924
+Isabella County,4 Rooms,722
+Isabella County,5 or more Rooms,0
+Isabella County,No Rooms,701
+Jackson County,1 Room,644
+Jackson County,2 Rooms,797
+Jackson County,3 Rooms,974
+Jackson County,4 Rooms,1135
+Jackson County,5 or more Rooms,1375
+Jackson County,No Rooms,603
+Kalamazoo County,1 Room,717
+Kalamazoo County,2 Rooms,887
+Kalamazoo County,3 Rooms,1079
+Kalamazoo County,4 Rooms,1200
+Kalamazoo County,5 or more Rooms,1776
+Kalamazoo County,No Rooms,632
+Kalkaska County,1 Room,388
+Kalkaska County,2 Rooms,697
+Kalkaska County,3 Rooms,857
+Kalkaska County,4 Rooms,825
+Kalkaska County,5 or more Rooms,0
+Kalkaska County,No Rooms,375
+Kent County,1 Room,786
+Kent County,2 Rooms,953
+Kent County,3 Rooms,1155
+Kent County,4 Rooms,1274
+Kent County,5 or more Rooms,1332
+Kent County,No Rooms,811
+Keweenaw County,1 Room,415
+Keweenaw County,2 Rooms,547
+Keweenaw County,3 Rooms,862
+Keweenaw County,4 Rooms,0
+Keweenaw County,5 or more Rooms,0
+Keweenaw County,No Rooms,0
+Lake County,1 Room,293
+Lake County,2 Rooms,688
+Lake County,3 Rooms,920
+Lake County,4 Rooms,1195
+Lake County,5 or more Rooms,0
+Lake County,No Rooms,0
+Lapeer County,1 Room,586
+Lapeer County,2 Rooms,826
+Lapeer County,3 Rooms,1030
+Lapeer County,4 Rooms,1322
+Lapeer County,5 or more Rooms,1149
+Lapeer County,No Rooms,769
+Leelanau County,1 Room,664
+Leelanau County,2 Rooms,994
+Leelanau County,3 Rooms,1082
+Leelanau County,4 Rooms,1250
+Leelanau County,5 or more Rooms,0
+Leelanau County,No Rooms,532
+Lenawee County,1 Room,609
+Lenawee County,2 Rooms,792
+Lenawee County,3 Rooms,933
+Lenawee County,4 Rooms,1096
+Lenawee County,5 or more Rooms,735
+Lenawee County,No Rooms,520
+Livingston County,1 Room,877
+Livingston County,2 Rooms,1021
+Livingston County,3 Rooms,1328
+Livingston County,4 Rooms,1481
+Livingston County,5 or more Rooms,1736
+Livingston County,No Rooms,868
+Luce County,1 Room,338
+Luce County,2 Rooms,752
+Luce County,3 Rooms,826
+Luce County,4 Rooms,942
+Luce County,5 or more Rooms,0
+Luce County,No Rooms,0
+Mackinac County,1 Room,548
+Mackinac County,2 Rooms,670
+Mackinac County,3 Rooms,675
+Mackinac County,4 Rooms,880
+Mackinac County,5 or more Rooms,660
+Mackinac County,No Rooms,291
+Macomb County,1 Room,798
+Macomb County,2 Rooms,1000
+Macomb County,3 Rooms,1204
+Macomb County,4 Rooms,1318
+Macomb County,5 or more Rooms,1336
+Macomb County,No Rooms,765
+Manistee County,1 Room,528
+Manistee County,2 Rooms,764
+Manistee County,3 Rooms,881
+Manistee County,4 Rooms,728
+Manistee County,5 or more Rooms,950
+Manistee County,No Rooms,811
+Marquette County,1 Room,658
+Marquette County,2 Rooms,805
+Marquette County,3 Rooms,790
+Marquette County,4 Rooms,1396
+Marquette County,5 or more Rooms,1671
+Marquette County,No Rooms,563
+Mason County,1 Room,577
+Mason County,2 Rooms,764
+Mason County,3 Rooms,946
+Mason County,4 Rooms,959
+Mason County,5 or more Rooms,1337
+Mason County,No Rooms,0
+Mecosta County,1 Room,535
+Mecosta County,2 Rooms,708
+Mecosta County,3 Rooms,826
+Mecosta County,4 Rooms,734
+Mecosta County,5 or more Rooms,1335
+Mecosta County,No Rooms,0
+Menominee County,1 Room,459
+Menominee County,2 Rooms,610
+Menominee County,3 Rooms,827
+Menominee County,4 Rooms,853
+Menominee County,5 or more Rooms,1075
+Menominee County,No Rooms,453
+Midland County,1 Room,618
+Midland County,2 Rooms,825
+Midland County,3 Rooms,986
+Midland County,4 Rooms,1005
+Midland County,5 or more Rooms,1540
+Midland County,No Rooms,622
+Missaukee County,1 Room,521
+Missaukee County,2 Rooms,722
+Missaukee County,3 Rooms,825
+Missaukee County,4 Rooms,828
+Missaukee County,5 or more Rooms,673
+Missaukee County,No Rooms,0
+Monroe County,1 Room,646
+Monroe County,2 Rooms,897
+Monroe County,3 Rooms,1032
+Monroe County,4 Rooms,1246
+Monroe County,5 or more Rooms,1199
+Monroe County,No Rooms,547
+Montcalm County,1 Room,563
+Montcalm County,2 Rooms,717
+Montcalm County,3 Rooms,805
+Montcalm County,4 Rooms,863
+Montcalm County,5 or more Rooms,648
+Montcalm County,No Rooms,554
+Montmorency County,1 Room,565
+Montmorency County,2 Rooms,668
+Montmorency County,3 Rooms,839
+Montmorency County,4 Rooms,0
+Montmorency County,5 or more Rooms,0
+Montmorency County,No Rooms,0
+Muskegon County,1 Room,586
+Muskegon County,2 Rooms,809
+Muskegon County,3 Rooms,923
+Muskegon County,4 Rooms,884
+Muskegon County,5 or more Rooms,980
+Muskegon County,No Rooms,625
+Newaygo County,1 Room,503
+Newaygo County,2 Rooms,757
+Newaygo County,3 Rooms,869
+Newaygo County,4 Rooms,931
+Newaygo County,5 or more Rooms,689
+Newaygo County,No Rooms,495
+Oakland County,1 Room,866
+Oakland County,2 Rooms,1164
+Oakland County,3 Rooms,1370
+Oakland County,4 Rooms,1836
+Oakland County,5 or more Rooms,1469
+Oakland County,No Rooms,800
+Oceana County,1 Room,499
+Oceana County,2 Rooms,769
+Oceana County,3 Rooms,803
+Oceana County,4 Rooms,990
+Oceana County,5 or more Rooms,1063
+Oceana County,No Rooms,490
+Ogemaw County,1 Room,601
+Ogemaw County,2 Rooms,684
+Ogemaw County,3 Rooms,753
+Ogemaw County,4 Rooms,945
+Ogemaw County,5 or more Rooms,0
+Ogemaw County,No Rooms,543
+Ontonagon County,1 Room,477
+Ontonagon County,2 Rooms,579
+Ontonagon County,3 Rooms,584
+Ontonagon County,4 Rooms,925
+Ontonagon County,5 or more Rooms,0
+Ontonagon County,No Rooms,0
+Osceola County,1 Room,386
+Osceola County,2 Rooms,688
+Osceola County,3 Rooms,812
+Osceola County,4 Rooms,1006
+Osceola County,5 or more Rooms,871
+Osceola County,No Rooms,239
+Oscoda County,1 Room,302
+Oscoda County,2 Rooms,715
+Oscoda County,3 Rooms,799
+Oscoda County,4 Rooms,0
+Oscoda County,5 or more Rooms,0
+Oscoda County,No Rooms,0
+Otsego County,1 Room,600
+Otsego County,2 Rooms,773
+Otsego County,3 Rooms,946
+Otsego County,4 Rooms,1115
+Otsego County,5 or more Rooms,0
+Otsego County,No Rooms,668
+Ottawa County,1 Room,830
+Ottawa County,2 Rooms,905
+Ottawa County,3 Rooms,1105
+Ottawa County,4 Rooms,1322
+Ottawa County,5 or more Rooms,1594
+Ottawa County,No Rooms,771
+Presque Isle County,1 Room,372
+Presque Isle County,2 Rooms,569
+Presque Isle County,3 Rooms,713
+Presque Isle County,4 Rooms,841
+Presque Isle County,5 or more Rooms,0
+Presque Isle County,No Rooms,378
+Roscommon County,1 Room,467
+Roscommon County,2 Rooms,669
+Roscommon County,3 Rooms,797
+Roscommon County,4 Rooms,900
+Roscommon County,5 or more Rooms,835
+Roscommon County,No Rooms,586
+Saginaw County,1 Room,562
+Saginaw County,2 Rooms,775
+Saginaw County,3 Rooms,927
+Saginaw County,4 Rooms,896
+Saginaw County,5 or more Rooms,929
+Saginaw County,No Rooms,565
+Sanilac County,1 Room,489
+Sanilac County,2 Rooms,695
+Sanilac County,3 Rooms,822
+Sanilac County,4 Rooms,848
+Sanilac County,5 or more Rooms,813
+Sanilac County,No Rooms,0
+Schoolcraft County,1 Room,293
+Schoolcraft County,2 Rooms,568
+Schoolcraft County,3 Rooms,770
+Schoolcraft County,4 Rooms,0
+Schoolcraft County,5 or more Rooms,0
+Schoolcraft County,No Rooms,0
+Shiawassee County,1 Room,551
+Shiawassee County,2 Rooms,729
+Shiawassee County,3 Rooms,906
+Shiawassee County,4 Rooms,969
+Shiawassee County,5 or more Rooms,2091
+Shiawassee County,No Rooms,559
+St. Clair County,1 Room,592
+St. Clair County,2 Rooms,788
+St. Clair County,3 Rooms,991
+St. Clair County,4 Rooms,1121
+St. Clair County,5 or more Rooms,1299
+St. Clair County,No Rooms,640
+St. Joseph County,1 Room,556
+St. Joseph County,2 Rooms,695
+St. Joseph County,3 Rooms,887
+St. Joseph County,4 Rooms,965
+St. Joseph County,5 or more Rooms,1059
+St. Joseph County,No Rooms,670
+Tuscola County,1 Room,526
+Tuscola County,2 Rooms,682
+Tuscola County,3 Rooms,854
+Tuscola County,4 Rooms,973
+Tuscola County,5 or more Rooms,925
+Tuscola County,No Rooms,460
+Van Buren County,1 Room,519
+Van Buren County,2 Rooms,735
+Van Buren County,3 Rooms,872
+Van Buren County,4 Rooms,863
+Van Buren County,5 or more Rooms,1209
+Van Buren County,No Rooms,466
+Washtenaw County,1 Room,997
+Washtenaw County,2 Rooms,1210
+Washtenaw County,3 Rooms,1340
+Washtenaw County,4 Rooms,1656
+Washtenaw County,5 or more Rooms,1519
+Washtenaw County,No Rooms,981
+Wayne County,1 Room,680
+Wayne County,2 Rooms,897
+Wayne County,3 Rooms,1059
+Wayne County,4 Rooms,1118
+Wayne County,5 or more Rooms,1169
+Wayne County,No Rooms,679
+Wexford County,1 Room,426
+Wexford County,2 Rooms,728
+Wexford County,3 Rooms,907
+Wexford County,4 Rooms,1021
+Wexford County,5 or more Rooms,755
+Wexford County,No Rooms,0

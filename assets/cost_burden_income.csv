@@ -1,0 +1,997 @@
+cost_burden,household_income,county,value
+Severly Cost Burdened (50% or more),80+% AMI,Alcona County,4.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Alcona County,300.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Alcona County,40.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Alcona County,135.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Alcona County,75.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Alcona County,110.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Alcona County,215.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Alcona County,190.0
+Unburdened (Less than 30%),80+% AMI,Alcona County,2567.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Alcona County,210.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Alcona County,770.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Alcona County,320.0
+Severly Cost Burdened (50% or more),80+% AMI,Alger County,0.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Alger County,170.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Alger County,15.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Alger County,90.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Alger County,70.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Alger County,55.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Alger County,190.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Alger County,135.0
+Unburdened (Less than 30%),80+% AMI,Alger County,1701.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Alger County,50.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Alger County,355.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Alger County,205.0
+Severly Cost Burdened (50% or more),80+% AMI,Allegan County,85.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Allegan County,1990.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Allegan County,415.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Allegan County,1040.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Allegan County,575.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Allegan County,635.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Allegan County,1575.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Allegan County,1345.0
+Unburdened (Less than 30%),80+% AMI,Allegan County,26730.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Allegan County,980.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Allegan County,4870.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Allegan County,1810.0
+Severly Cost Burdened (50% or more),80+% AMI,Alpena County,15.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Alpena County,760.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Alpena County,100.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Alpena County,320.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Alpena County,125.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Alpena County,245.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Alpena County,415.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Alpena County,605.0
+Unburdened (Less than 30%),80+% AMI,Alpena County,6795.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Alpena County,460.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Alpena County,1985.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Alpena County,745.0
+Severly Cost Burdened (50% or more),80+% AMI,Antrim County,25.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Antrim County,450.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Antrim County,215.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Antrim County,300.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Antrim County,165.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Antrim County,85.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Antrim County,385.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Antrim County,330.0
+Unburdened (Less than 30%),80+% AMI,Antrim County,5765.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Antrim County,250.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Antrim County,1065.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Antrim County,410.0
+Severly Cost Burdened (50% or more),80+% AMI,Arenac County,4.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Arenac County,370.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Arenac County,50.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Arenac County,180.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Arenac County,75.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Arenac County,130.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Arenac County,330.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Arenac County,335.0
+Unburdened (Less than 30%),80+% AMI,Arenac County,3516.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Arenac County,260.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Arenac County,915.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Arenac County,415.0
+Severly Cost Burdened (50% or more),80+% AMI,Baraga County,15.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Baraga County,270.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Baraga County,30.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Baraga County,45.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Baraga County,30.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Baraga County,40.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Baraga County,115.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Baraga County,115.0
+Unburdened (Less than 30%),80+% AMI,Baraga County,1606.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Baraga County,110.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Baraga County,425.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Baraga County,200.0
+Severly Cost Burdened (50% or more),80+% AMI,Barry County,20.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Barry County,1080.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Barry County,230.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Barry County,615.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Barry County,420.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Barry County,290.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Barry County,1025.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Barry County,710.0
+Unburdened (Less than 30%),80+% AMI,Barry County,14490.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Barry County,435.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Barry County,3005.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Barry County,1085.0
+Severly Cost Burdened (50% or more),80+% AMI,Bay County,35.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Bay County,2690.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Bay County,365.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Bay County,1230.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Bay County,555.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Bay County,725.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Bay County,2385.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Bay County,2090.0
+Unburdened (Less than 30%),80+% AMI,Bay County,25970.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Bay County,1295.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Bay County,4470.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Bay County,1385.0
+Severly Cost Burdened (50% or more),80+% AMI,Benzie County,30.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Benzie County,365.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Benzie County,105.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Benzie County,190.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Benzie County,85.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Benzie County,60.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Benzie County,275.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Benzie County,235.0
+Unburdened (Less than 30%),80+% AMI,Benzie County,4070.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Benzie County,130.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Benzie County,705.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Benzie County,245.0
+Severly Cost Burdened (50% or more),80+% AMI,Berrien County,125.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Berrien County,4165.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Berrien County,835.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Berrien County,2195.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Berrien County,870.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Berrien County,915.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Berrien County,2890.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Berrien County,2885.0
+Unburdened (Less than 30%),80+% AMI,Berrien County,35870.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Berrien County,1960.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Berrien County,6970.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Berrien County,2590.0
+Severly Cost Burdened (50% or more),80+% AMI,Branch County,25.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Branch County,730.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Branch County,135.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Branch County,430.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Branch County,205.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Branch County,150.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Branch County,915.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Branch County,685.0
+Unburdened (Less than 30%),80+% AMI,Branch County,9790.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Branch County,440.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Branch County,2000.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Branch County,600.0
+Severly Cost Burdened (50% or more),80+% AMI,Calhoun County,80.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Calhoun County,3725.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Calhoun County,755.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Calhoun County,2025.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Calhoun County,825.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Calhoun County,875.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Calhoun County,2735.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Calhoun County,2410.0
+Unburdened (Less than 30%),80+% AMI,Calhoun County,30995.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Calhoun County,1200.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Calhoun County,5110.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Calhoun County,1805.0
+Severly Cost Burdened (50% or more),80+% AMI,Cass County,95.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Cass County,870.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Cass County,210.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Cass County,465.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Cass County,420.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Cass County,200.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Cass County,850.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Cass County,605.0
+Unburdened (Less than 30%),80+% AMI,Cass County,12710.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Cass County,620.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Cass County,2620.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Cass County,585.0
+Severly Cost Burdened (50% or more),80+% AMI,Charlevoix County,20.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Charlevoix County,460.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Charlevoix County,180.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Charlevoix County,335.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Charlevoix County,205.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Charlevoix County,110.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Charlevoix County,600.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Charlevoix County,520.0
+Unburdened (Less than 30%),80+% AMI,Charlevoix County,6570.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Charlevoix County,335.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Charlevoix County,1190.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Charlevoix County,520.0
+Severly Cost Burdened (50% or more),80+% AMI,Cheboygan County,35.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Cheboygan County,535.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Cheboygan County,195.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Cheboygan County,240.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Cheboygan County,170.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Cheboygan County,140.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Cheboygan County,535.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Cheboygan County,425.0
+Unburdened (Less than 30%),80+% AMI,Cheboygan County,6185.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Cheboygan County,480.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Cheboygan County,1460.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Cheboygan County,580.0
+Severly Cost Burdened (50% or more),80+% AMI,Chippewa County,25.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Chippewa County,870.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Chippewa County,110.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Chippewa County,505.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Chippewa County,160.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Chippewa County,230.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Chippewa County,630.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Chippewa County,725.0
+Unburdened (Less than 30%),80+% AMI,Chippewa County,7715.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Chippewa County,505.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Chippewa County,1650.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Chippewa County,670.0
+Severly Cost Burdened (50% or more),80+% AMI,Clare County,10.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Clare County,1030.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Clare County,115.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Clare County,430.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Clare County,100.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Clare County,235.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Clare County,670.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Clare County,875.0
+Unburdened (Less than 30%),80+% AMI,Clare County,5870.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Clare County,415.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Clare County,1725.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Clare County,825.0
+Severly Cost Burdened (50% or more),80+% AMI,Clinton County,20.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Clinton County,1395.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Clinton County,295.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Clinton County,575.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Clinton County,425.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Clinton County,365.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Clinton County,1080.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Clinton County,1005.0
+Unburdened (Less than 30%),80+% AMI,Clinton County,19030.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Clinton County,460.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Clinton County,3250.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Clinton County,865.0
+Severly Cost Burdened (50% or more),80+% AMI,Crawford County,4.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Crawford County,325.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Crawford County,85.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Crawford County,230.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Crawford County,85.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Crawford County,100.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Crawford County,305.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Crawford County,175.0
+Unburdened (Less than 30%),80+% AMI,Crawford County,3536.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Crawford County,265.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Crawford County,625.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Crawford County,235.0
+Severly Cost Burdened (50% or more),80+% AMI,Delta County,15.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Delta County,965.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Delta County,135.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Delta County,420.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Delta County,185.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Delta County,215.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Delta County,630.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Delta County,650.0
+Unburdened (Less than 30%),80+% AMI,Delta County,9105.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Delta County,565.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Delta County,1940.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Delta County,845.0
+Severly Cost Burdened (50% or more),80+% AMI,Dickinson County,15.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Dickinson County,800.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Dickinson County,80.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Dickinson County,290.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Dickinson County,45.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Dickinson County,145.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Dickinson County,345.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Dickinson County,380.0
+Unburdened (Less than 30%),80+% AMI,Dickinson County,6735.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Dickinson County,290.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Dickinson County,1370.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Dickinson County,475.0
+Severly Cost Burdened (50% or more),80+% AMI,Eaton County,85.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Eaton County,2700.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Eaton County,390.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Eaton County,870.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Eaton County,565.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Eaton County,430.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Eaton County,2000.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Eaton County,1675.0
+Unburdened (Less than 30%),80+% AMI,Eaton County,27705.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Eaton County,740.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Eaton County,5045.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Eaton County,1250.0
+Severly Cost Burdened (50% or more),80+% AMI,Emmet County,45.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Emmet County,815.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Emmet County,285.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Emmet County,460.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Emmet County,245.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Emmet County,150.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Emmet County,770.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Emmet County,570.0
+Unburdened (Less than 30%),80+% AMI,Emmet County,8080.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Emmet County,370.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Emmet County,1550.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Emmet County,620.0
+Severly Cost Burdened (50% or more),80+% AMI,Genesee County,545.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Genesee County,13775.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Genesee County,2300.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Genesee County,6550.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Genesee County,2940.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Genesee County,2300.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Genesee County,8690.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Genesee County,7860.0
+Unburdened (Less than 30%),80+% AMI,Genesee County,94625.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Genesee County,4940.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Genesee County,14725.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Genesee County,4635.0
+Severly Cost Burdened (50% or more),80+% AMI,Gladwin County,40.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Gladwin County,730.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Gladwin County,165.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Gladwin County,340.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Gladwin County,150.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Gladwin County,255.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Gladwin County,385.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Gladwin County,425.0
+Unburdened (Less than 30%),80+% AMI,Gladwin County,5846.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Gladwin County,390.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Gladwin County,1410.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Gladwin County,610.0
+Severly Cost Burdened (50% or more),80+% AMI,Gogebic County,10.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Gogebic County,505.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Gogebic County,50.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Gogebic County,70.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Gogebic County,55.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Gogebic County,195.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Gogebic County,230.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Gogebic County,350.0
+Unburdened (Less than 30%),80+% AMI,Gogebic County,3350.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Gogebic County,285.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Gogebic County,930.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Gogebic County,520.0
+Severly Cost Burdened (50% or more),80+% AMI,Grand Traverse County,60.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Grand Traverse County,2085.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Grand Traverse County,595.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Grand Traverse County,1110.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Grand Traverse County,765.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Grand Traverse County,340.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Grand Traverse County,2020.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Grand Traverse County,1495.0
+Unburdened (Less than 30%),80+% AMI,Grand Traverse County,21610.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Grand Traverse County,745.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Grand Traverse County,3685.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Grand Traverse County,1385.0
+Severly Cost Burdened (50% or more),80+% AMI,Gratiot County,10.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Gratiot County,1295.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Gratiot County,80.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Gratiot County,435.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Gratiot County,160.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Gratiot County,165.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Gratiot County,815.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Gratiot County,700.0
+Unburdened (Less than 30%),80+% AMI,Gratiot County,8240.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Gratiot County,585.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Gratiot County,1865.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Gratiot County,620.0
+Severly Cost Burdened (50% or more),80+% AMI,Hillsdale County,35.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Hillsdale County,870.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Hillsdale County,125.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Hillsdale County,555.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Hillsdale County,220.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Hillsdale County,280.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Hillsdale County,840.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Hillsdale County,745.0
+Unburdened (Less than 30%),80+% AMI,Hillsdale County,10305.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Hillsdale County,635.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Hillsdale County,2140.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Hillsdale County,805.0
+Severly Cost Burdened (50% or more),80+% AMI,Houghton County,30.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Houghton County,1135.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Houghton County,195.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Houghton County,385.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Houghton County,150.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Houghton County,290.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Houghton County,500.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Houghton County,520.0
+Unburdened (Less than 30%),80+% AMI,Houghton County,7050.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Houghton County,615.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Houghton County,1635.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Houghton County,590.0
+Severly Cost Burdened (50% or more),80+% AMI,Huron County,25.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Huron County,690.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Huron County,145.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Huron County,310.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Huron County,175.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Huron County,235.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Huron County,450.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Huron County,635.0
+Unburdened (Less than 30%),80+% AMI,Huron County,8120.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Huron County,365.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Huron County,1920.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Huron County,625.0
+Severly Cost Burdened (50% or more),80+% AMI,Ingham County,150.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Ingham County,11645.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Ingham County,1355.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Ingham County,4315.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Ingham County,1390.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Ingham County,1775.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Ingham County,5625.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Ingham County,6410.0
+Unburdened (Less than 30%),80+% AMI,Ingham County,59110.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Ingham County,3310.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Ingham County,11595.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Ingham County,3640.0
+Severly Cost Burdened (50% or more),80+% AMI,Ionia County,50.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Ionia County,1270.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Ionia County,245.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Ionia County,620.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Ionia County,360.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Ionia County,330.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Ionia County,1065.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Ionia County,715.0
+Unburdened (Less than 30%),80+% AMI,Ionia County,14345.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Ionia County,415.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Ionia County,2200.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Ionia County,840.0
+Severly Cost Burdened (50% or more),80+% AMI,Iosco County,30.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Iosco County,670.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Iosco County,155.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Iosco County,215.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Iosco County,115.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Iosco County,240.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Iosco County,570.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Iosco County,480.0
+Unburdened (Less than 30%),80+% AMI,Iosco County,6220.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Iosco County,320.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Iosco County,1800.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Iosco County,690.0
+Severly Cost Burdened (50% or more),80+% AMI,Iron County,4.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Iron County,290.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Iron County,45.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Iron County,185.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Iron County,45.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Iron County,130.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Iron County,185.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Iron County,270.0
+Unburdened (Less than 30%),80+% AMI,Iron County,2646.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Iron County,215.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Iron County,890.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Iron County,340.0
+Severly Cost Burdened (50% or more),80+% AMI,Isabella County,75.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Isabella County,2775.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Isabella County,345.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Isabella County,1115.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Isabella County,395.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Isabella County,350.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Isabella County,1410.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Isabella County,1050.0
+Unburdened (Less than 30%),80+% AMI,Isabella County,13110.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Isabella County,710.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Isabella County,2330.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Isabella County,755.0
+Severly Cost Burdened (50% or more),80+% AMI,Jackson County,115.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Jackson County,3615.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Jackson County,740.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Jackson County,2245.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Jackson County,825.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Jackson County,710.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Jackson County,3270.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Jackson County,2445.0
+Unburdened (Less than 30%),80+% AMI,Jackson County,36765.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Jackson County,1415.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Jackson County,6200.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Jackson County,2055.0
+Severly Cost Burdened (50% or more),80+% AMI,Kalamazoo County,205.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Kalamazoo County,7065.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Kalamazoo County,1120.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Kalamazoo County,3355.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Kalamazoo County,1680.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Kalamazoo County,1215.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Kalamazoo County,5470.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Kalamazoo County,4650.0
+Unburdened (Less than 30%),80+% AMI,Kalamazoo County,60795.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Kalamazoo County,2510.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Kalamazoo County,10045.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Kalamazoo County,2770.0
+Severly Cost Burdened (50% or more),80+% AMI,Kalkaska County,0.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Kalkaska County,520.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Kalkaska County,45.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Kalkaska County,190.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Kalkaska County,120.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Kalkaska County,75.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Kalkaska County,370.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Kalkaska County,265.0
+Unburdened (Less than 30%),80+% AMI,Kalkaska County,3995.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Kalkaska County,230.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Kalkaska County,855.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Kalkaska County,345.0
+Severly Cost Burdened (50% or more),80+% AMI,Kent County,295.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Kent County,15720.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Kent County,2125.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Kent County,7075.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Kent County,2850.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Kent County,3045.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Kent County,12595.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Kent County,11600.0
+Unburdened (Less than 30%),80+% AMI,Kent County,140400.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Kent County,4885.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Kent County,26605.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Kent County,8255.0
+Severly Cost Burdened (50% or more),80+% AMI,Keweenaw County,4.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Keweenaw County,45.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Keweenaw County,15.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Keweenaw County,20.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Keweenaw County,4.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Keweenaw County,25.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Keweenaw County,25.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Keweenaw County,10.0
+Unburdened (Less than 30%),80+% AMI,Keweenaw County,642.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Keweenaw County,40.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Keweenaw County,140.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Keweenaw County,69.0
+Severly Cost Burdened (50% or more),80+% AMI,Lake County,4.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Lake County,420.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Lake County,75.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Lake County,195.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Lake County,60.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Lake County,155.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Lake County,185.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Lake County,185.0
+Unburdened (Less than 30%),80+% AMI,Lake County,1976.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Lake County,205.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Lake County,685.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Lake County,310.0
+Severly Cost Burdened (50% or more),80+% AMI,Lapeer County,85.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Lapeer County,2110.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Lapeer County,460.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Lapeer County,950.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Lapeer County,575.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Lapeer County,425.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Lapeer County,1545.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Lapeer County,1325.0
+Unburdened (Less than 30%),80+% AMI,Lapeer County,19240.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Lapeer County,705.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Lapeer County,3860.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Lapeer County,1360.0
+Severly Cost Burdened (50% or more),80+% AMI,Leelanau County,30.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Leelanau County,320.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Leelanau County,260.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Leelanau County,280.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Leelanau County,200.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Leelanau County,125.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Leelanau County,480.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Leelanau County,220.0
+Unburdened (Less than 30%),80+% AMI,Leelanau County,5255.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Leelanau County,230.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Leelanau County,990.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Leelanau County,305.0
+Severly Cost Burdened (50% or more),80+% AMI,Lenawee County,135.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Lenawee County,1935.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Lenawee County,515.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Lenawee County,1300.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Lenawee County,755.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Lenawee County,330.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Lenawee County,1825.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Lenawee County,1660.0
+Unburdened (Less than 30%),80+% AMI,Lenawee County,23075.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Lenawee County,640.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Lenawee County,3875.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Lenawee County,1085.0
+Severly Cost Burdened (50% or more),80+% AMI,Livingston County,145.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Livingston County,3865.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Livingston County,825.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Livingston County,1530.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Livingston County,1040.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Livingston County,1135.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Livingston County,2985.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Livingston County,2690.0
+Unburdened (Less than 30%),80+% AMI,Livingston County,43925.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Livingston County,935.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Livingston County,7990.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Livingston County,2870.0
+Severly Cost Burdened (50% or more),80+% AMI,Luce County,0.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Luce County,115.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Luce County,25.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Luce County,65.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Luce County,20.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Luce County,55.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Luce County,95.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Luce County,65.0
+Unburdened (Less than 30%),80+% AMI,Luce County,1215.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Luce County,60.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Luce County,330.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Luce County,105.0
+Severly Cost Burdened (50% or more),80+% AMI,Mackinac County,10.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Mackinac County,355.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Mackinac County,115.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Mackinac County,145.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Mackinac County,55.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Mackinac County,65.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Mackinac County,185.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Mackinac County,160.0
+Unburdened (Less than 30%),80+% AMI,Mackinac County,2965.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Mackinac County,165.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Mackinac County,685.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Mackinac County,275.0
+Severly Cost Burdened (50% or more),80+% AMI,Macomb County,645.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Macomb County,22925.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Macomb County,4590.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Macomb County,11630.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Macomb County,5820.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Macomb County,4430.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Macomb County,17900.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Macomb County,15225.0
+Unburdened (Less than 30%),80+% AMI,Macomb County,202000.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Macomb County,6775.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Macomb County,34370.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Macomb County,11335.0
+Severly Cost Burdened (50% or more),80+% AMI,Manistee County,55.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Manistee County,565.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Manistee County,120.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Manistee County,225.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Manistee County,160.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Manistee County,135.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Manistee County,475.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Manistee County,400.0
+Unburdened (Less than 30%),80+% AMI,Manistee County,5355.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Manistee County,190.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Manistee County,1275.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Manistee County,385.0
+Severly Cost Burdened (50% or more),80+% AMI,Marquette County,65.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Marquette County,1800.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Marquette County,370.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Marquette County,810.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Marquette County,400.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Marquette County,430.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Marquette County,1095.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Marquette County,1140.0
+Unburdened (Less than 30%),80+% AMI,Marquette County,14980.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Marquette County,975.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Marquette County,2750.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Marquette County,875.0
+Severly Cost Burdened (50% or more),80+% AMI,Mason County,45.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Mason County,780.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Mason County,100.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Mason County,385.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Mason County,215.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Mason County,140.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Mason County,710.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Mason County,465.0
+Unburdened (Less than 30%),80+% AMI,Mason County,6930.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Mason County,250.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Mason County,1220.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Mason County,500.0
+Severly Cost Burdened (50% or more),80+% AMI,Mecosta County,4.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Mecosta County,1255.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Mecosta County,275.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Mecosta County,510.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Mecosta County,335.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Mecosta County,195.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Mecosta County,660.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Mecosta County,595.0
+Unburdened (Less than 30%),80+% AMI,Mecosta County,8471.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Mecosta County,595.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Mecosta County,1760.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Mecosta County,825.0
+Severly Cost Burdened (50% or more),80+% AMI,Menominee County,40.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Menominee County,515.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Menominee County,105.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Menominee County,110.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Menominee County,100.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Menominee County,180.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Menominee County,285.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Menominee County,575.0
+Unburdened (Less than 30%),80+% AMI,Menominee County,5930.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Menominee County,370.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Menominee County,1575.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Menominee County,690.0
+Severly Cost Burdened (50% or more),80+% AMI,Midland County,30.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Midland County,2025.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Midland County,290.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Midland County,525.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Midland County,245.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Midland County,825.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Midland County,1345.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Midland County,1485.0
+Unburdened (Less than 30%),80+% AMI,Midland County,20080.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Midland County,755.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Midland County,4235.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Midland County,1740.0
+Severly Cost Burdened (50% or more),80+% AMI,Missaukee County,15.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Missaukee County,305.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Missaukee County,70.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Missaukee County,260.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Missaukee County,95.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Missaukee County,80.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Missaukee County,335.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Missaukee County,275.0
+Unburdened (Less than 30%),80+% AMI,Missaukee County,3355.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Missaukee County,115.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Missaukee County,710.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Missaukee County,275.0
+Severly Cost Burdened (50% or more),80+% AMI,Monroe County,100.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Monroe County,3450.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Monroe County,610.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Monroe County,1690.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Monroe County,765.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Monroe County,1080.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Monroe County,2555.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Monroe County,2465.0
+Unburdened (Less than 30%),80+% AMI,Monroe County,35660.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Monroe County,1205.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Monroe County,6385.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Monroe County,1905.0
+Severly Cost Burdened (50% or more),80+% AMI,Montcalm County,35.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Montcalm County,1485.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Montcalm County,275.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Montcalm County,600.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Montcalm County,365.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Montcalm County,315.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Montcalm County,1255.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Montcalm County,1015.0
+Unburdened (Less than 30%),80+% AMI,Montcalm County,13135.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Montcalm County,680.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Montcalm County,3085.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Montcalm County,1050.0
+Severly Cost Burdened (50% or more),80+% AMI,Montmorency County,10.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Montmorency County,215.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Montmorency County,65.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Montmorency County,160.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Montmorency County,45.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Montmorency County,85.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Montmorency County,170.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Montmorency County,135.0
+Unburdened (Less than 30%),80+% AMI,Montmorency County,2151.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Montmorency County,105.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Montmorency County,705.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Montmorency County,270.0
+Severly Cost Burdened (50% or more),80+% AMI,Muskegon County,200.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Muskegon County,4115.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Muskegon County,500.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Muskegon County,2040.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Muskegon County,1050.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Muskegon County,1060.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Muskegon County,3465.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Muskegon County,2670.0
+Unburdened (Less than 30%),80+% AMI,Muskegon County,38230.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Muskegon County,1995.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Muskegon County,6945.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Muskegon County,2310.0
+Severly Cost Burdened (50% or more),80+% AMI,Newaygo County,35.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Newaygo County,1245.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Newaygo County,280.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Newaygo County,620.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Newaygo County,345.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Newaygo County,430.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Newaygo County,680.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Newaygo County,730.0
+Unburdened (Less than 30%),80+% AMI,Newaygo County,10575.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Newaygo County,630.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Newaygo County,2240.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Newaygo County,900.0
+Severly Cost Burdened (50% or more),80+% AMI,Oakland County,1945.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Oakland County,28555.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Oakland County,8460.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Oakland County,15720.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Oakland County,8720.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Oakland County,4250.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Oakland County,22825.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Oakland County,14370.0
+Unburdened (Less than 30%),80+% AMI,Oakland County,324465.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Oakland County,9915.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Oakland County,33635.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Oakland County,9840.0
+Severly Cost Burdened (50% or more),80+% AMI,Oceana County,10.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Oceana County,645.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Oceana County,95.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Oceana County,270.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Oceana County,115.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Oceana County,135.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Oceana County,385.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Oceana County,355.0
+Unburdened (Less than 30%),80+% AMI,Oceana County,5745.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Oceana County,260.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Oceana County,1410.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Oceana County,570.0
+Severly Cost Burdened (50% or more),80+% AMI,Ogemaw County,20.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Ogemaw County,575.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Ogemaw County,140.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Ogemaw County,335.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Ogemaw County,175.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Ogemaw County,105.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Ogemaw County,445.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Ogemaw County,515.0
+Unburdened (Less than 30%),80+% AMI,Ogemaw County,4516.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Ogemaw County,335.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Ogemaw County,1530.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Ogemaw County,435.0
+Severly Cost Burdened (50% or more),80+% AMI,Ontonagon County,0.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Ontonagon County,170.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Ontonagon County,20.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Ontonagon County,75.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Ontonagon County,25.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Ontonagon County,35.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Ontonagon County,120.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Ontonagon County,90.0
+Unburdened (Less than 30%),80+% AMI,Ontonagon County,1471.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Ontonagon County,150.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Ontonagon County,490.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Ontonagon County,205.0
+Severly Cost Burdened (50% or more),80+% AMI,Osceola County,10.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Osceola County,570.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Osceola County,95.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Osceola County,230.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Osceola County,155.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Osceola County,180.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Osceola County,385.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Osceola County,360.0
+Unburdened (Less than 30%),80+% AMI,Osceola County,4775.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Osceola County,340.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Osceola County,1210.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Osceola County,655.0
+Severly Cost Burdened (50% or more),80+% AMI,Oscoda County,10.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Oscoda County,255.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Oscoda County,50.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Oscoda County,170.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Oscoda County,65.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Oscoda County,70.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Oscoda County,160.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Oscoda County,115.0
+Unburdened (Less than 30%),80+% AMI,Oscoda County,1970.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Oscoda County,140.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Oscoda County,525.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Oscoda County,250.0
+Severly Cost Burdened (50% or more),80+% AMI,Otsego County,25.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Otsego County,465.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Otsego County,90.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Otsego County,230.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Otsego County,200.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Otsego County,70.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Otsego County,555.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Otsego County,400.0
+Unburdened (Less than 30%),80+% AMI,Otsego County,5935.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Otsego County,160.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Otsego County,1045.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Otsego County,455.0
+Severly Cost Burdened (50% or more),80+% AMI,Ottawa County,85.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Ottawa County,5470.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Ottawa County,965.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Ottawa County,2055.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Ottawa County,880.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Ottawa County,1155.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Ottawa County,4000.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Ottawa County,4250.0
+Unburdened (Less than 30%),80+% AMI,Ottawa County,61315.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Ottawa County,1590.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Ottawa County,13535.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Ottawa County,4750.0
+Severly Cost Burdened (50% or more),80+% AMI,Presque Isle County,10.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Presque Isle County,280.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Presque Isle County,60.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Presque Isle County,125.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Presque Isle County,30.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Presque Isle County,100.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Presque Isle County,205.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Presque Isle County,205.0
+Unburdened (Less than 30%),80+% AMI,Presque Isle County,3285.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Presque Isle County,195.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Presque Isle County,800.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Presque Isle County,400.0
+Severly Cost Burdened (50% or more),80+% AMI,Roscommon County,15.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Roscommon County,795.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Roscommon County,110.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Roscommon County,405.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Roscommon County,185.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Roscommon County,195.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Roscommon County,535.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Roscommon County,520.0
+Unburdened (Less than 30%),80+% AMI,Roscommon County,5450.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Roscommon County,390.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Roscommon County,1470.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Roscommon County,635.0
+Severly Cost Burdened (50% or more),80+% AMI,Saginaw County,190.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Saginaw County,5950.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Saginaw County,1015.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Saginaw County,2460.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Saginaw County,1300.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Saginaw County,1365.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Saginaw County,3975.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Saginaw County,3565.0
+Unburdened (Less than 30%),80+% AMI,Saginaw County,44880.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Saginaw County,2245.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Saginaw County,8090.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Saginaw County,2200.0
+Severly Cost Burdened (50% or more),80+% AMI,Sanilac County,40.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Sanilac County,1000.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Sanilac County,140.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Sanilac County,465.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Sanilac County,220.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Sanilac County,280.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Sanilac County,720.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Sanilac County,785.0
+Unburdened (Less than 30%),80+% AMI,Sanilac County,9690.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Sanilac County,625.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Sanilac County,2210.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Sanilac County,740.0
+Severly Cost Burdened (50% or more),80+% AMI,Schoolcraft County,10.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Schoolcraft County,210.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Schoolcraft County,25.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Schoolcraft County,75.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Schoolcraft County,45.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Schoolcraft County,65.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Schoolcraft County,125.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Schoolcraft County,250.0
+Unburdened (Less than 30%),80+% AMI,Schoolcraft County,1720.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Schoolcraft County,155.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Schoolcraft County,425.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Schoolcraft County,175.0
+Severly Cost Burdened (50% or more),80+% AMI,Shiawassee County,40.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Shiawassee County,1295.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Shiawassee County,325.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Shiawassee County,595.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Shiawassee County,435.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Shiawassee County,300.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Shiawassee County,1175.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Shiawassee County,1285.0
+Unburdened (Less than 30%),80+% AMI,Shiawassee County,17365.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Shiawassee County,470.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Shiawassee County,3060.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Shiawassee County,940.0
+Severly Cost Burdened (50% or more),80+% AMI,St. Clair County,45.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),St. Clair County,4580.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),St. Clair County,595.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),St. Clair County,1775.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,St. Clair County,925.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),St. Clair County,1355.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),St. Clair County,2855.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),St. Clair County,2670.0
+Unburdened (Less than 30%),80+% AMI,St. Clair County,35445.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),St. Clair County,1715.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),St. Clair County,8535.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),St. Clair County,3150.0
+Severly Cost Burdened (50% or more),80+% AMI,St. Joseph County,55.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),St. Joseph County,1410.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),St. Joseph County,265.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),St. Joseph County,570.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,St. Joseph County,290.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),St. Joseph County,280.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),St. Joseph County,1050.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),St. Joseph County,855.0
+Unburdened (Less than 30%),80+% AMI,St. Joseph County,14295.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),St. Joseph County,495.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),St. Joseph County,2850.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),St. Joseph County,1095.0
+Severly Cost Burdened (50% or more),80+% AMI,Tuscola County,25.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Tuscola County,1400.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Tuscola County,265.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Tuscola County,640.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Tuscola County,315.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Tuscola County,300.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Tuscola County,950.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Tuscola County,840.0
+Unburdened (Less than 30%),80+% AMI,Tuscola County,12560.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Tuscola County,565.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Tuscola County,2720.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Tuscola County,685.0
+Severly Cost Burdened (50% or more),80+% AMI,Van Buren County,55.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Van Buren County,1620.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Van Buren County,385.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Van Buren County,665.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Van Buren County,465.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Van Buren County,550.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Van Buren County,1315.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Van Buren County,1290.0
+Unburdened (Less than 30%),80+% AMI,Van Buren County,16570.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Van Buren County,850.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Van Buren County,3370.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Van Buren County,1425.0
+Severly Cost Burdened (50% or more),80+% AMI,Washtenaw County,265.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Washtenaw County,14010.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Washtenaw County,1785.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Washtenaw County,4510.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Washtenaw County,2395.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Washtenaw County,2500.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Washtenaw County,6620.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Washtenaw County,6025.0
+Unburdened (Less than 30%),80+% AMI,Washtenaw County,76675.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Washtenaw County,3840.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Washtenaw County,14065.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Washtenaw County,4590.0
+Severly Cost Burdened (50% or more),80+% AMI,Wayne County,925.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Wayne County,80105.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Wayne County,6795.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Wayne County,22960.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Wayne County,8390.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Wayne County,18490.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Wayne County,33105.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Wayne County,35040.0
+Unburdened (Less than 30%),80+% AMI,Wayne County,313075.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Wayne County,36985.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Wayne County,78750.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Wayne County,32245.0
+Severly Cost Burdened (50% or more),80+% AMI,Wexford County,20.0
+Severly Cost Burdened (50% or more),Extremely Low Income (0-30% AMI),Wexford County,860.0
+Severly Cost Burdened (50% or more),Low Income (51-80% AMI),Wexford County,115.0
+Severly Cost Burdened (50% or more),Very Low Income (31-50% AMI),Wexford County,390.0
+"Cost Burdened (30% or more, but less than 50%)",80+% AMI,Wexford County,195.0
+"Cost Burdened (30% or more, but less than 50%)",Extremely Low Income (0-30% AMI),Wexford County,250.0
+"Cost Burdened (30% or more, but less than 50%)",Low Income (51-80% AMI),Wexford County,645.0
+"Cost Burdened (30% or more, but less than 50%)",Very Low Income (31-50% AMI),Wexford County,455.0
+Unburdened (Less than 30%),80+% AMI,Wexford County,7010.0
+Unburdened (Less than 30%),Extremely Low Income (0-30% AMI),Wexford County,365.0
+Unburdened (Less than 30%),Low Income (51-80% AMI),Wexford County,1800.0
+Unburdened (Less than 30%),Very Low Income (31-50% AMI),Wexford County,725.0
