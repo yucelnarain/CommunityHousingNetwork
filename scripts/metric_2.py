@@ -1,18 +1,30 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+#import streamlit as st
+#import pandas as pd
+#import numpy as np
+#import matplotlib.pyplot as plt
+#import seaborn as sns
 
 
-df2 = pd.read_excel('assets/mi_2021_oor_data.xlsx', sheet_name='Sheet1')
-df2 = df2[['COUNTY/METRO','Income needed to afford 1 bdrm FMR', 'Income needed to afford 2 bdrm FMR']]
-df2 = df2.dropna()
+#df2 = pd.read_excel('assets/mi_2021_oor_data.xlsx', sheet_name='Sheet1')
+#df2 = df2[['COUNTY/METRO','Income needed to afford 1 bdrm FMR', 'Income needed to afford 2 bdrm FMR']]
+#df2 = df2.dropna()
 
-st.title('Income needed to afford Fair Market Rent (FMR)')
+#st.title('Income needed to afford Fair Market Rent (FMR)')
 
 
 if __name__ == '__main__':
+    import streamlit as st
+    import pandas as pd
+    import numpy as np
+        import matplotlib.pyplot as plt
+    import seaborn as sns
+
+
+    df2 = pd.read_excel('assets/mi_2021_oor_data.xlsx', sheet_name='Sheet1')
+    df2 = df2[['COUNTY/METRO','Income needed to afford 1 bdrm FMR', 'Income needed to afford 2 bdrm FMR']]
+    df2 = df2.dropna()
+
+    st.title('Income needed to afford Fair Market Rent (FMR)')
 
     #Toggle data display
     if st.checkbox('Show raw data'):
@@ -64,16 +76,16 @@ if __name__ == '__main__':
         st.pyplot(fig)
 
         with st.expander("Click for explanation"):
-        st.write("""
-            In 2019 in the USA, a renter household needs an annual income of $51,789 to afford a two-bedroom rental home at the 
-            Fair Market Rent.
+            st.write("""
+                In 2019 in the USA, a renter household needs an annual income of $51,789 to afford a two-bedroom rental home at the 
+                Fair Market Rent.
 
-            "Affordable" rents represent the generallly accepted standard of spending no more than 30% of gross income on gross 
-            housing costs.
+                "Affordable" rents represent the generallly accepted standard of spending no more than 30% of gross income on gross 
+                housing costs.
 
-            Calculation: 
-            Multiply the FMR for a unit of a particular size by 12 to get the yearly rental cost (2BR: 1,294.73 x 12 = 15,537). 
-            Then divide by .3 to determine the total income needed to afford 15,537 per year in rent (115,537 / .3 = 51,789).
-            
-            Source: NLIHC Out of Reach 2021
-        """)
+                Calculation: 
+                Multiply the FMR for a unit of a particular size by 12 to get the yearly rental cost (2BR: 1,294.73 x 12 = 15,537). 
+                Then divide by .3 to determine the total income needed to afford 15,537 per year in rent (115,537 / .3 = 51,789).
+                
+                Source: NLIHC Out of Reach 2021
+            """)
