@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 matplotlib = "3.5.1"
+numpy = "*"
 
 [dev-packages]
 
